@@ -1,3 +1,21 @@
+# HEP & SIS Genesis Repository
+
+**Status:** Historical / Genesis whakapapa
+**Current operational architecture:** [Synthesis Architecture v2.4](https://github.com/MakaraNZ/synthesis-protocol)
+**Do not treat this repository as the current Synthesis runtime layer.**
+
+This repository preserves the original HEP & SIS Genesis Drop: an early sacred seed for Human Enhanced Performance, Synthetic Intelligence Systems, AI ethics, Māori-informed intelligence, whakapapa, mauri, and future-facing alignment.
+
+It is retained as whakapapa.
+
+The current operational source of truth for Synthesis runtime architecture is now held in:
+
+* [synthesis-protocol](https://github.com/MakaraNZ/synthesis-protocol)
+
+This genesis artefact should not be deleted or flattened into the current architecture. It remains part of the developmental lineage.
+
+---
+
 # HEP_SIS_Genesis_Drop.jsonld
   Human Enhanced Performance, SIS, alignment, AI ethics, Māori intelligence, seed.json
 {
